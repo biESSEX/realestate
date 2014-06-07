@@ -34,7 +34,7 @@ class db_connection(object):
 class trulia(db_connection):
 
 	# API key to access Trulia as biESSEX
-	api_key = "9524kd7nary888esv4d8snwh"
+	api_key = "1234ab5cdef678ghi9j0klmn"
 	
 	# date variables
 	start_date = "2014-05-01"
